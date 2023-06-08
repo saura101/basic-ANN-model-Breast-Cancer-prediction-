@@ -9,7 +9,7 @@ Original file is located at
 
 
 
-# Brest cancer 
+# Brest cancer that is
 from sklearn.datasets import load_breast_cancer
 Data= load_breast_cancer()
 
